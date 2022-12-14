@@ -53,7 +53,7 @@ The Internet is a complex network made of both machines and people, and hence, p
 </div>
 {% endfor %}
 
-Previous talks can be found [here](/archive).
+Previous talks can be found [here](/rain-seminar/archive).
 
 # About The Seminar
 
