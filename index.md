@@ -31,7 +31,7 @@ The Internet is a complex network made of both machines and people, and hence, p
   {% endif %}
   {% if talk.abstract %}
     <details>
-    <summary>Abstract</summary>
+    <summary>→ Abstract and Bio</summary>
     {{ talk.abstract }}
     
     {% if talk.bio %}
